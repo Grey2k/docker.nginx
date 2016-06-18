@@ -1,0 +1,5 @@
+*
+!nginx.conf.orig
+!conf.d
+!conf.d/default.conf.orig
+!.gitignore
