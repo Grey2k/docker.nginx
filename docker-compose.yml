@@ -1,8 +1,9 @@
 version: '2'
 services:
-  proxy:
+  nginx:
     restart: always
     image: nginx:1.11
+    network_mode: host
     ports:
       - "80:80"
       - "443:443"
