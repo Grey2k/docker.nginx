@@ -11,7 +11,7 @@ https://docs.docker.com/engine/installation/linux/ubuntulinux/
 docker-compose install
 https://docs.docker.com/compose/install/
 
-## Installation && configuration
+## Installation & configuration
 
 After pull repository you must edit config in config folder (remove .orig extention if needed)
 
